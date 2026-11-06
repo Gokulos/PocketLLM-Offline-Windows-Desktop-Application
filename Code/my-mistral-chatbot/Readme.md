@@ -1,1 +1,1 @@
-Put your Adapter model weights here for the GUI after training->
+Adapter weights for the GUI goes here after training->
